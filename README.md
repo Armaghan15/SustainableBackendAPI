@@ -6,3 +6,6 @@
 3. Contact Armaghan for the Databse connection and other private variables
 4. Run ```npm install``` to install all external modules
 5. Run ```npm run dev``` to run the development server
+
+
+#### By: Armaghan Hayat
